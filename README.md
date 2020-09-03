@@ -1,3 +1,3 @@
 # googlectf2020
 
-Scripts and code used for the Google 2020 CTF
+Non sorted mess of scripts and code used for the Google 2020 CTF (alot of it written after 3 am..)
