@@ -1,0 +1,4 @@
+Read exe file:
+MathSH> memset(__global__.System.Convert.ToBase64String(__global__.System.IO.File.ReadAllBytes("GoogleCTF2020.exe")), 123)
+MathSH> memlist()
+
